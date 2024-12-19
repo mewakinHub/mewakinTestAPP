@@ -1,0 +1,10 @@
+name: ar_ai_backend
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - flask
+  - tensorflow
+  - pillow
+  - numpy
+  - tensorflow-hub
